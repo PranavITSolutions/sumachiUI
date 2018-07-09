@@ -1,2 +1,0 @@
-# sumachi
-Sumachi Business Website
